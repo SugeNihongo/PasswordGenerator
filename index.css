@@ -1,0 +1,66 @@
+/* container & all */
+body {
+    margin: 0;
+    background-color :#1F2937;
+    font-family: karia;
+}
+
+#container {
+    margin : 50px 100px 0px;
+}
+
+/* button */
+button {
+    height: 42px;
+    width: 191px;
+    
+    border: none;
+    font-family: inherit; 
+    color: white;
+    font-size: 16px;
+    
+    background-color: #10B981;
+    border-radius: 6px;
+    padding: 9px 17px 9px 15px;
+    margin: 20px 0px;
+    
+}
+
+
+
+/* Condiment */
+h1 {
+    color: white;
+    line-height: 40px;
+}
+
+p {
+    color:  #D5D4D8;
+}
+
+span {
+    color: #5DEF92;
+}
+
+
+/* choice section */
+#choice-section {
+    display: flex;
+    gap: 30px;
+}
+
+h3 {
+    width: 50%;
+    height: 30px;
+    
+    font-size: 16px;
+    background-color: #273549;
+    color: #5DEF92;
+    
+    border-radius: 6px;
+    
+    line-height: 30px;
+    text-align: center;
+    
+    
+}
